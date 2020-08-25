@@ -1,6 +1,8 @@
 # San-Francisco-Crime-Classification
 Kaggle Competition - Predict the category of crimes that occurred in the city by the bay (PySpark Project)
 
+![alt text](http://t.ly/6n1F)
+
 1 Insights and Visualizations
   1. Crime rate in each District (Crime percentage per District)
   2. Crimes over years (Crime rate per District)
