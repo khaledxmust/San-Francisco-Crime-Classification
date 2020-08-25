@@ -6,7 +6,7 @@ Kaggle Competition - Predict the category of crimes that occurred in the city by
 1 Insights and Visualizations
   1. Crime rate in each District (Crime percentage per District)
   2. Crimes over years (Crime rate per District)
-  3 Weekends vs Weekdays
+  3. Weekends vs Weekdays
   4. Hours peak crime rates (Most Crime Hours/Days)
   5. Cases with actions (1)
   6. Cases with actions (2) with details
